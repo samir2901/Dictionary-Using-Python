@@ -6,4 +6,4 @@ Modules used are:
   2. PyDictionary
  
     UserInterface:
-[The GUI](https://github.com/samir2901/Dictionary-Using-Python/blob/master/Screenshot/screenshot.png?raw=true)
+[The GUI](https://raw.githubusercontent.com/samir2901/Dictionary-Using-Python/master/Screenshot/screenshot.png)
